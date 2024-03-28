@@ -1,5 +1,5 @@
 # Terenz's Notes and Articles Dump
-This repository hosts notes and articles I have written for public viewing. Most of these are specifically written for my private digital library of literature.
+This repository hosts notes and articles I have written for public viewing. Most of these were specifically written for my private digital library of literature.
 
 ## Instructions
 For the best viewing experience, I suggest using either [Obsidian](https://obsidian.md/) or [Visual Studio Code](https://code.visualstudio.com/) with a [Mermaid.js](https://mermaid.js.org/) plugin for rendering graphs and diagrams.
